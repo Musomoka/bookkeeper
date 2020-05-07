@@ -1,0 +1,2 @@
+class EntryTypeName < ApplicationRecord
+end
